@@ -1,3 +1,3 @@
 # studentList
-#include "functions.h"
+
 
